@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Raccolta dei miei progetti di Data Analytics, SQL e Power BI.
+Raccolta dei miei progetti di Data Analytics realizzati con diversi software, tra cui R, Python, SQL, EXCEL e Power BI.
 
 ---
 
@@ -37,3 +37,14 @@ Analisi SQL completa su database retail.
 
 🔗 Repository:
 https://github.com/danielemonteverdi02/sql-retail-analysis
+
+---
+
+### SQL Murder Mystery
+
+Soluzione completa e walkthrough del famoso SQL Murder Mystery game, con query SQL utilizzate per investigare il caso e identificare il colpevole.
+
+🔗 Repository:
+https://github.com/danielemonteverdi02/sql-murder-mystery
+
+---
