@@ -1,8 +1,8 @@
-# Portfolio
-
 # Data Analytics Portfolio
 
 Raccolta dei miei progetti di Data Analytics, SQL e Power BI.
+
+---
 
 ## Power BI Projects
 
