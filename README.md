@@ -6,6 +6,14 @@ Raccolta dei miei progetti di Data Analytics realizzati con diversi software, tr
 
 ## Power BI Projects
 
+### Sales Analysis Dashboard
+Dashboard per il monitoraggio delle performance di vendita.
+
+🔗 Repository:
+https://github.com/danielemonteverdi02/powerbi-sales-analysis-dashboard
+
+---
+
 ### Car Sales Dashboard
 Dashboard interattiva per l'analisi delle vendite automobilistiche.
 
@@ -19,14 +27,6 @@ Dashboard per l'analisi di film e serie TV.
 
 🔗 Repository:
 https://github.com/danielemonteverdi02/powerbi-movie-tv-analytics-dashboard
-
----
-
-### Sales Analysis Dashboard
-Dashboard per il monitoraggio delle performance di vendita.
-
-🔗 Repository:
-https://github.com/danielemonteverdi02/powerbi-sales-analysis-dashboard
 
 ---
 
