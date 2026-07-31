@@ -4,6 +4,16 @@ Raccolta dei miei progetti di Data Analytics realizzati con diversi software, tr
 
 ---
 
+## End-to-End Data Analytics Projects
+
+### Customer Shopping Behavior Analysis
+
+Progetto completo di Data Analytics che comprende data cleaning e feature engineering con Python (Pandas), analisi SQL con SQLite e dashboard interattiva sviluppata in Power BI.
+
+🔗 Repository: https://github.com/danielemonteverdi02/customer-shopping-behavior-analysis
+
+---
+
 ## Power BI Projects
 
 ### Sales Analysis Dashboard
