@@ -58,3 +58,10 @@ Soluzione completa e walkthrough del famoso SQL Murder Mystery game, con query S
 https://github.com/danielemonteverdi02/sql-murder-mystery
 
 ---
+
+## Excel Projects
+
+Dashboard interattiva in Microsoft Excel per l'analisi delle vendite.
+
+🔗 Repository:
+https://github.com/danielemonteverdi02/excel-sales-dashboard
