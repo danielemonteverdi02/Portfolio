@@ -4,7 +4,7 @@ Raccolta dei miei progetti di Data Analytics realizzati con diversi software, tr
 
 ---
 
-## End-to-End Data Analytics Projects
+## Multiple Tools
 
 ### Customer Shopping Behavior Analysis
 
@@ -15,6 +15,14 @@ Progetto completo di Data Analytics che comprende data cleaning e feature engine
 ---
 
 ## Power BI Projects
+
+### Adidas Sales Dashboard
+Interactive Adidas sales dashboard built in Excel to analyze sales, profit, products, retailers, regions and monthly performance.
+
+🔗 Repository:
+https://github.com/danielemonteverdi02/adidas-sales-analysis-dashboard
+
+---
 
 ### Sales Analysis Dashboard
 Dashboard per il monitoraggio delle performance di vendita.
