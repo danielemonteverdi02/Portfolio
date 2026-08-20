@@ -16,6 +16,12 @@ Progetto completo di Data Analytics che comprende data cleaning e feature engine
 
 ## Power BI Projects
 
+### Finance Transaction Dashboard
+
+
+🔗 Repository:
+https://github.com/danielemonteverdi02/
+
 ### Adidas Sales Dashboard
 Interactive Adidas sales dashboard built in Excel to analyze sales, profit, products, retailers, regions and monthly performance.
 
