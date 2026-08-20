@@ -20,7 +20,7 @@ Progetto completo di Data Analytics che comprende data cleaning e feature engine
 Dashboard interattiva per l'analisi delle transazioni finanziarie, realizzata con Power BI Desktop utilizzando Power Query per la pulizia e trasformazione dei dati e DAX
 
 🔗 Repository:
-https://github.com/danielemonteverdi02/
+https://github.com/danielemonteverdi02/powerbi-finance-transaction-dashboard
 
 ### Adidas Sales Dashboard
 Interactive Adidas sales dashboard built in Excel to analyze sales, profit, products, retailers, regions and monthly performance.
