@@ -22,6 +22,8 @@ Dashboard interattiva per l'analisi delle transazioni finanziarie, realizzata co
 🔗 Repository:
 https://github.com/danielemonteverdi02/powerbi-finance-transaction-dashboard
 
+---
+
 ### Adidas Sales Dashboard
 Interactive Adidas sales dashboard built in Excel to analyze sales, profit, products, retailers, regions and monthly performance.
 
